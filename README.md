@@ -37,11 +37,11 @@
 
 ![GitHub Contribution Heatmap](https://ghchart.rshah.org/io-abhishek1701)
 
-*GitHub activity heatmap*
-
----
+*Darker squares = more commits that day*
 
 </div>
+
+---
 
 ## 📁 Problems by Platform
 
@@ -89,7 +89,7 @@
 | `B` | The Secret Number | [Code](B-The_Secret_Number.cpp) |
 | `B` | Skibidus and Ohio | [Code](B_Skibidus_and_Ohio.cpp) |
 | `B` | Team Training Round1013 | [Code](B_Team_Training_Round1013.cpp) |
-| `C1` | The Cunning Seller easy version | [Code](C1-The_Cunning_Seller_(easy_version).cpp) |
+| `C1` | The Cunning Seller (Easy Version) | [Code](C1-The_Cunning_Seller_(easy_version).cpp) |
 <!-- CODEFORCES_TABLE_END -->
 
 ---
@@ -136,4 +136,8 @@ g++ -std=c++17 -o output 1-Two_Sum.cpp
 
 </div>
 
-<div align="center"><sub>⭐ Star this repo if it helped you! &nbsp;|&nbsp; README auto-updates on every push via GitHub Actions</sub></div>
+---
+
+<div align="center">
+  <sub>⭐ Star this repo if it helped you! &nbsp;|&nbsp; README auto-updates on every push via GitHub Actions</sub>
+</div>

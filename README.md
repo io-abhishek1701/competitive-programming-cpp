@@ -104,26 +104,6 @@
 
 ---
 
-## 🧠 Topic-wise Breakdown
-
-<div align="center">
-
-| Topic | Count |
-|:---|:---:|
-| 🔗 Linked List | 6 |
-| 📦 Arrays | 6 |
-| 🔤 Strings | 6 |
-| ➗ Math | 5 |
-| 🧮 Implementation | 5 |
-| 🟩 Greedy / Sorting | 5 |
-| 🔄 Two Pointers | 3 |
-| 💡 Dynamic Programming | 2 |
-| 🔲 Matrix | 1 |
-
-</div>
-
----
-
 ## 🚀 How to Run
 
 ```bash

@@ -36,7 +36,7 @@
 
 ![GitHub Contribution Heatmap](https://ghchart.rshah.org/io-abhishek1701)
 
-> *GitHub activity heatmap — darker = more commits that day*
+> *GitHub activity heatmap*
 
 </div>
 
